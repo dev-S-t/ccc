@@ -8,3 +8,5 @@
 > https://dev-s-t.github.io/crusdae_2.0/
 ## * **ML**
 > https://github.com/dev-S-t/ccc/tree/main/ML%20learn
+## * **Sign_Lang**
+> https://github.com/dev-S-t/Sign_Lang
